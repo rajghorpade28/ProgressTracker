@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Dark Obsidian Background -->
+  <rect width="64" height="64" rx="16" fill="#121316"/>
+  <rect x="1" y="1" width="62" height="62" rx="15" stroke="rgba(192, 193, 255, 0.2)" stroke-width="1.5"/>
+
+  <!-- Subtle Ambient Glow Behind Lotus -->
+  <circle cx="32" cy="34" r="16" fill="#c0c1ff" fill-opacity="0.14"/>
+
+  <!-- Stylized Elegant Lotus Blossom -->
+  <g stroke="#c0c1ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Outermost Left Petal -->
+    <path d="M 32 46 C 24 45 15 39 12 30 C 17 31 24 35 28 41" fill="#c0c1ff" fill-opacity="0.08"/>
+    
+    <!-- Outermost Right Petal -->
+    <path d="M 32 46 C 40 45 49 39 52 30 C 47 31 40 35 36 41" fill="#c0c1ff" fill-opacity="0.08"/>
+
+    <!-- Inner Left Petal -->
+    <path d="M 32 46 C 26 42 19 32 20 22 C 24 27 29 33 32 39" fill="#c0c1ff" fill-opacity="0.18"/>
+
+    <!-- Inner Right Petal -->
+    <path d="M 32 46 C 38 42 45 32 44 22 C 40 27 35 33 32 39" fill="#c0c1ff" fill-opacity="0.18"/>
+
+    <!-- Center Petal -->
+    <path d="M 32 15 C 37 23 38 35 32 46 C 26 35 27 23 32 15 Z" fill="#c0c1ff" fill-opacity="0.32"/>
+
+    <!-- Base Pod / Calyx -->
+    <path d="M 23 47 C 27 51 37 51 41 47" fill="none" stroke="#c0c1ff" stroke-width="1.8"/>
+  </g>
+</svg>
