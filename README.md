@@ -1,7 +1,7 @@
 # Progress Tracker
 
 > **50-Week Placement Engineering Roadmap & Minimalist Execution Console**  
-> Deploy this copy to Vercel or another static host.
+> Live site: **[missionplaced.rajghorpade.tech](https://missionplaced.rajghorpade.tech)**
 
 [![Status](https://img.shields.io/badge/Status-Ready%20to%20Deploy-8083ff?style=flat-square)](#-multi-user-setup)
 [![Stack](https://img.shields.io/badge/Architecture-Local--First%20%2B%20Supabase-c0c1ff?style=flat-square)](#-architecture--tech-stack)
